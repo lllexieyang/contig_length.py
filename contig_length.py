@@ -1,5 +1,9 @@
+# calculate the length of contigs of a fasta file
+# Python3
+# 4/9/2023 Lu Yang
+
 # EXAMPLE:
-# python contig_length.py plasmidE2022.fasta
+# python contig_length.py resfinder2022.fasta
 
 import sys
 from Bio import SeqIO
